@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154112459402",
+    "project_id": "hackhub-5e967",
+    "storage_bucket": "hackhub-5e967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154112459402:android:94f2e9dbe7a985edfc2373",
+        "android_client_info": {
+          "package_name": "ru.bonepolk.ctf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154112459402-9cujkjuv6qjdbllgig3a8t8ibh4msb30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.bonepolk.ctf",
+            "certificate_hash": "17597485f9743c236a8394dbb00b777c3d80999c"
+          }
+        },
+        {
+          "client_id": "154112459402-v9suu3dge9353kf4meqn8rrqh1c2v39s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG5J8Mh8eL7mHPilnuxVoxdTf0oZoODb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154112459402-v9suu3dge9353kf4meqn8rrqh1c2v39s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
